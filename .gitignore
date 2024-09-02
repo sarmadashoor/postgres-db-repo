@@ -14,3 +14,10 @@ __pycache__/
 
 # Ignore MacOS hidden files
 .DS_Store
+
+# nested git repos to ignore
+
+../django/
+../react-app/
+../node/
+../mongo/
