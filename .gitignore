@@ -1,0 +1,16 @@
+# Ignore any environment variables or credentials
+.env
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore log files
+*.log
+
+# Ignore Python cache (if any Python scripts are added in the future)
+__pycache__/
+*.pyc
+
+# Ignore MacOS hidden files
+.DS_Store
